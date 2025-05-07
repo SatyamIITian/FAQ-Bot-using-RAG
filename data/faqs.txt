@@ -1,0 +1,29 @@
+Q: What is the course duration?
+A: The course lasts 12 weeks, with weekly lectures and assignments.
+
+Q: Are there any prerequisites?
+A: Yes, basic knowledge of Python and linear algebra is required.
+
+Q: How are assignments graded?
+A: Assignments are graded based on correctness, clarity, and timeliness, with a rubric provided.
+
+Q: Is there a final exam?
+A: Yes, a comprehensive final exam is held in the last week.
+
+Q: Can I audit the course?
+A: Auditing is allowed with instructor permission, but no grades are given.
+
+Q: What is the attendance policy?
+A: Attendance is mandatory for 80% of lectures to receive full participation marks.
+
+Q: Are lecture recordings available?
+A: Yes, recordings are available on the course portal within 24 hours.
+
+Q: How do I contact the instructor?
+A: Email the instructor at course@example.com or use the course forum.
+
+Q: What is the textbook for the course?
+A: The recommended textbook is "Introduction to AI" by J. Doe.
+
+Q: Are there office hours?
+A: Yes, office hours are held weekly on Zoom, scheduled via the course portal.
